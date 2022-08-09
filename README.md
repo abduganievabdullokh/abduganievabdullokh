@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/3a/81/05/3a8105197bf6472fa8e825c06a3e5041.gif)](https://rishavchanda.io)
 <h1 align="center">Hola 👋, I'm Abdullokh</h1>
 <h3 align="center">A Software engineer Student from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/32ba91_dd95bf5c063e402b99619bbcad0f6f70~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduganievabdullokh&label=Profile%20views&color=0e75b6&style=flat" alt="abduganievabdullokh" /> </p>
 
