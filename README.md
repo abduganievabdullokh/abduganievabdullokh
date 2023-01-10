@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abduganiev_abdu" target="blank"><img src="https://img.shields.io/twitter/follow/abduganiev_abdu?logo=twitter&style=for-the-badge" alt="abduganiev_abdu" /></a> </p>
 
-- ☎️ I’m currently working at **Call Center**
+- 🧑🏻‍🍳 I’m currently working at **Restaurant** as a chef
 
 - 🌱 I’m currently learning **C++ OOP**
 
