@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Python on YT channels Botir Ziyatov and Sariqdev**
+- 🌱 I’m currently learning **Django Framework**
 
 
 - 👨‍💻 My Telegram blog 
