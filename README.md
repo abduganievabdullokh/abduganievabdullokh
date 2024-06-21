@@ -6,10 +6,11 @@
 
 
 
-- 🌱 I’m currently learning **Django Framework**
+- 👨‍💻 I’m currently in the field of **ML & NLP**
+  
+- 🌐 Interested in **Computer Networks and Linux Stuff**
 
-
-- 👨‍💻 My Telegram blog 
+- ✍ Join my Telegram blog 
   <a href="https://t.me/abdullokhs_blog" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="A_Abdulloh_blog" /></a>
   
 
