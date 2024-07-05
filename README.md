@@ -1,7 +1,7 @@
 <h2>NOTE</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&duration=3000&pause=500&color=65B927&center=true&vCenter=true&width=900&lines=Bonjour👋,+I'm+Abdullokh;I'm+Software+engineer+Student+from+Uzbekistan;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&duration=3000&pause=500&color=65B927&center=true&vCenter=true&width=900&lines=Bonjour👋,+I'm+Abdullokh;I'm+Software+engineer+from+Uzbekistan;" alt="Typing SVG" />
 </div>
 <div align="center">
  <small> </small>
